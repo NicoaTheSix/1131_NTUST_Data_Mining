@@ -3,6 +3,8 @@
 ## Environment setup
 
 ```bash
+# Install virtual environment package if needed
+sudo apt install python3.12-venv
 # Create virtual environment
 python3 -m venv .venv
 
